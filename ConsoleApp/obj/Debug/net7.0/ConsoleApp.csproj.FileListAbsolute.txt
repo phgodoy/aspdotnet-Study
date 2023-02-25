@@ -1,0 +1,15 @@
+C:\Users\PEPE01\source\repos\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\PEPE01\source\repos\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\PEPE01\source\repos\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\PEPE01\source\repos\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\PEPE01\source\repos\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\PEPE01\source\repos\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
